@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/sofik/CLionProjects/WinterFun/ReadWriter.h
+iostream
+-
+fstream
+-
+Student_and_Ski.h
+C:/Users/sofik/CLionProjects/WinterFun/Student_and_Ski.h
+
+C:/Users/sofik/CLionProjects/WinterFun/Student_and_Ski.h
+
+C:/Users/sofik/CLionProjects/WinterFun/main.cpp
+ReadWriter.h
+C:/Users/sofik/CLionProjects/WinterFun/ReadWriter.h
+
